@@ -1,0 +1,3 @@
+[submodule "public/gohugo-theme-ananke"]
+	path = public/gohugo-theme-ananke
+	url = https://github.com/Kichye/gohugo-theme-ananke
